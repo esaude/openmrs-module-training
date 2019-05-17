@@ -28,7 +28,7 @@ It will allow you to deploy any changes to your web
 resources such as jsp or js files without re-installing the module. The deploy path says
 where OpenMRS is deployed.
 
-## Installation
+## Installation MONDLANE TRAINING
 
 1.  Build the module to produce the .omod file.
 2.  Use the OpenMRS Administration > Manage Modules screen to upload and install the .omod file.
