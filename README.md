@@ -1,4 +1,4 @@
-# EPTS Reports Module
+# EPTS Reports Module: From Jembi trainning, Edited by Eurico Jose on May 17 2019
 
 [![Build Status](https://travis-ci.org/esaude/openmrs-module-eptsreports.svg?branch=master)](https://travis-ci.org/esaude/openmrs-module-eptsreports) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1889390f9f5246fbb3179fef3f1e2ac8)](https://app.codacy.com/app/esaude-ops/openmrs-module-eptsreports?utm_source=github.com&utm_medium=referral&utm_content=esaude/openmrs-module-eptsreports&utm_campaign=Badge_Grade_Dashboard) [![codecov](https://codecov.io/gh/esaude/openmrs-module-eptsreports/branch/master/graph/badge.svg)](https://codecov.io/gh/esaude/openmrs-module-eptsreports)
 
